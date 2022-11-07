@@ -1,5 +1,6 @@
 # Dependencies
  ```pip install pyautogui ```
+ 
  https://pyautogui.readthedocs.io/en/latest/
 
 # Simple AFK BOT 1.0.0
