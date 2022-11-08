@@ -14,15 +14,15 @@ def go(working_time):
 
     while time_delayed <= working_time:
         time.sleep(3)
-        
+
         # Mouse move
         pag.click()
         x = random.randint(0, screen_width)
         y = random.randint(0, screen_high)
-        #pag.moveTo(x, y, 0.5)
+        pag.moveTo(x, y, 0.5)
 
         # Keyboard move
-        #pag.press(['w', 's', 'a', 'd', 'space'])
+        pag.press(['w', 's', 'a', 'd', 'space'])
         
         time_delayed += 3
     status = "BOTTING IS DONE"
