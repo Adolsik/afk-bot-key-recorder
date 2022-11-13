@@ -2,12 +2,9 @@ import pyautogui as pag
 import time
 import random
 
-status = "BOT IS NOT WORKING"
-
-
-def go(working_time):
+def go(working_time,bot_status):
     time_delayed = 0.0
-    status = "BOT IS WORKING"
+    bot_status.config(text="Status: BOT IS WORKING")
 
     # Primary monitor size
     screen_width, screen_high = pag.size()
@@ -25,5 +22,6 @@ def go(working_time):
         pag.press(['w', 's', 'a', 'd', 'space'])
         
         time_delayed += 3
-    status = "BOTTING IS DONE"
+    bot_status.config(text="Status: BOT HAS FINISHED HIS WORK")
+     
 
