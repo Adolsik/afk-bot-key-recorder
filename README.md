@@ -8,7 +8,7 @@
   https://pypi.org/project/keyboard/
 
 # Introduction
- - Bot has simple Anti-AFK feature, recording and replay keys function
+ - Bot has simple Anti-AFK feature, recording and replay function
  
  - To use the bot open file "gui.exe"
  
