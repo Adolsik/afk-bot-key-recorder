@@ -9,6 +9,8 @@
 
 # Introduction
  - Bot has simple Anti-AFK feature, recording and replay function
+ - ![image](https://github.com/Adolsik/AFK-BOT-KEY-RECORDER/assets/75134645/90f00bda-2042-4269-9c61-7fa27a4d08f7)
+
  
 # Usage
 - To use the bot download the latest release archive and run 'gui.exe' file
