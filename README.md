@@ -10,7 +10,8 @@
 # Introduction
  - Bot has simple Anti-AFK feature, recording and replay function
  
- - To use the bot open file "gui.exe"
+# Usage
+- To use the bot download the latest release archive and run 'gui.exe' file
  
- # Known Limitations
+# Known Limitations
  - This program makes no attempt to hide itself, so don't use it for keyloggers or in serious online games. Be responsible.
